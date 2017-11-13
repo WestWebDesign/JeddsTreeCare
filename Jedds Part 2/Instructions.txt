@@ -1,0 +1,14 @@
+Instructions
+
+Open up Jedds Tree Care that you created.
+
+Create three pages, Careers page, client-promise page, and a page on the Emerald Ash bore - you will have to find your own pictures and information about this tree killing insect.
+
+format them using CSS 
+
+At the bottom of every page you must place into the footer three images icons that you have to look for. Twitter, Facebook, and Instagram. Each image must link to the coresponding images site page.
+
+Change the side bar color in CSS to a darker green 
+
+This assignment is an assessment score. And is to be placed within module 4.2
+

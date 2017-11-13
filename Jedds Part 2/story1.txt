@@ -1,0 +1,9 @@
+7
+a type of food, FOOD
+the name of a skill or sport, SKILL
+the name of an activity, ACTIVITY
+the name of a building on campus, BUILDING
+the name of a course in college, SUBJECT
+the name of a professor, PROFNAME
+the name of a friend, FRIEND
+You and FRIEND were practicing SKILL in BUILDING, but then FRIEND was disappointed in your current ability and was about to leave BUILDING to practice SKILL without you. However, since you are so much better at SUBJECT than FRIEND, you promised to study SUBJECT with FRIEND later if you continued to practice SKILL together. Your friend agreed and you continued to practice for another 30 minutes when PROFNAME also walked in to practice SKILL while eating FOOD at the same time! It turns out that PROFNAME was actually just taking a break from teaching SUBJECT and was surprisingly good at SKILL while eating! However, for some reason, watching all of this made you just want to go and try out ACTIVITY, so you and FRIEND left to do that instead. 
