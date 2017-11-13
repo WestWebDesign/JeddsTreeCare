@@ -17,7 +17,7 @@ At the bottom of every page you must place into the footer three images icons th
 
 <img src="jedds2.JPG" height="250" width="250">
 
-#Jedds Tree Care Part 2
+# Jedds Tree Care Part 2
 <hr>
 Instructions
 
