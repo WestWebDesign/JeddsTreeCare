@@ -11,9 +11,7 @@ Create three pages, Careers page, client-promise page, and a page on the Emerald
 
 format them using CSS 
 
-Change the side bar color in CSS to a darker green 
-
-At the bottom of every page you must place into the footer three images icons that you have to look for. Twitter, Facebook, and Instagram. Each image must link to the coresponding images site page.
+At the bottom of every page you must place into the footer three images using font awesome. Twitter, Facebook, and Instagram.
 
 <img src="jedds2.JPG" height="250" width="250">
 
