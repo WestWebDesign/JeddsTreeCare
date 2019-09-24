@@ -27,5 +27,5 @@ format them using CSS
 
 At the bottom of every page you must place into the footer three font awesome icons(Google Font Awesome to learn). Twitter, Facebook, and Instagram. Each image must link to the coresponding images site page. Use the Font Awesome to complete this part.
 
-Change the side bar color in CSS to a darker green 
+All Pages must be linked to one another. 
 
